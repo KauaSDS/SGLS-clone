@@ -1,0 +1,16 @@
+O que presta:
+- Login ( implementar Rage Limit, Segurança)
+- 
+
+
+O que falta:
+- Testes de Software: Testes Manuais e Rotina.
+- Definir uma paleta para estilizar
+- Estilização e Interatividade.
+
+O que não presta:
+- Excluir uma Categoria, Alterar uma Categoria
+- Editar Produto
+- Restante
+
+Mestre: TestadorAdmin@gmail.com
